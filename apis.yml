@@ -1,0 +1,32 @@
+aid: myvaccination
+name: MyVaccination
+description: "Vaccination data for Malaysia"
+url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: MyVaccination
+    description: "Vaccination data for Malaysia"
+    humanURL: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+    baseURL: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+common:
+  - type: Website
+    url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
