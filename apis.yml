@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
 common:
+  - type: VulnerabilityDisclosure
+    url: security/myvaccination-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/myvaccination-domain-security.yml
   - type: Website
     url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
   - type: PublicAPIsListing
