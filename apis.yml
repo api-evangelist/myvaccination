@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/myvaccinat
 name: MyVaccination
 description: "Vaccination data for Malaysia"
 url: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
