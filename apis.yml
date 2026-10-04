@@ -39,7 +39,6 @@ apis:
   - name: MyVaccination
     description: "Vaccination data for Malaysia"
     humanURL: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
-    baseURL: https://documenter.getpostman.com/view/16605343/Tzm8GG7u
     tags:
       - Health
     properties:
